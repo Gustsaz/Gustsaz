@@ -22,7 +22,9 @@ Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursand
 ### Linguagens
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" />
+       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+ 
 </div>
 </a>
  </td><td valign="top" width="25%">
