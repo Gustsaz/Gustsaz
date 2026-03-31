@@ -23,18 +23,20 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 
 - **Ensino Médio Técnico em Desenvolvimento de Sistemas** | ETEC
 - **Análise e Desenvolvimento de Sistemas** | FATEC Ipiranga (Previsão: 12/2027)
+  
+</td>
 
 ## **Ferramentas** & **Experiências**:
 
-<table><tr>
+<table><tr><td valign="top" width="25%">
 
 ### Linguagens
 <a href="https://github.com/tayyabadev">
-  <div align="center">
+<div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
-  </div>
+</div>
 </a>
- 
+ </td><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/tayyabadev">
@@ -43,7 +45,7 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 </div>
 </a>
 
-
+</td><td valign="top" width="25%">
   
 ### Outros
 <a href="https://github.com/tayyabadev">
@@ -51,10 +53,11 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
 </div>
 </a>
+</td>
 </tr></table>
 
-</td>
 <td width="40%" valign="top"
+
 
 ## Contatos:
   <div align="center">
