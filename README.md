@@ -53,7 +53,7 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 
 ## Contatos:
 <div align="center">
-    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-Gustavo%20Almeida-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-Gustavo%20Almeida-0077B5?style=flat&logo=LinkedIn"/></a>
     <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-zuccaalmeida@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
