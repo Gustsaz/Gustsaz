@@ -1,112 +1,66 @@
-# 🕶️ Gustavo Almeida Zuchini
+<table>
+<tr>
 
-```bash
-> Inicializando sistema...
-> Usuário detectado: Gustsaz
-> Status: ATIVO
-> Modo: SINISTRO ⚡
-```
+<pre align="center">
 
----
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-## 👁️‍🗨️ Sobre mim
+</pre>
+## Sobre mim:
 
-```yaml
-nome: Gustavo Almeida Zuchini
-username: Gustsaz
-localização: Brasil 🇧🇷
-status: Construindo coisas que talvez você não entenda... ainda.
-foco: Código limpo, ideias caóticas e execução precisa.
-```
+Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
 
-> "Código não mente. Pessoas sim."
+## Formação:
 
----
+- **Ensino Médio Técnico em Desenvolvimento de Sistemas** | ETEC
+- **Análise e Desenvolvimento de Sistemas** | FATEC Ipiranga (Previsão: 12/2027)
 
-## 🧠 Stack Mental
+## **Ferramentas** & **Experiências**:
 
-```txt
-💻 Linguagens:
-- JavaScript / TypeScript
-- Python
-- C++
-- (e qualquer outra que resolva o problema)
+<table><tr><td valign="top" width="25%">
 
-⚙️ Ferramentas:
-- Git & GitHub
-- Docker
-- Linux
-- VS Code (modo noturno sempre 🌑)
+### Linguagens
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
 
-🧩 Interesses:
-- Backend pesado
-- Automação
-- Sistemas distribuídos
-- Segurança (um pouco suspeito 👀)
-```
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
+</div>
+</a>
 
----
+</td><td valign="top" width="25%">
+  
+### Outros
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-## ⚡ Estatísticas
+</td>
 
-```txt
-> Carregando dados...
-Commits: ████████████████████
-Projetos: ████████████████
-Café: ██████████████████████████████
-Sono: ██
-```
+## Contatos:
 
----
+  <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
+  </div>
 
-## 🕸️ Projetos em Destaque
+  <div align="center">
+    <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+  </div>
+  
+</div>
 
-```diff
-+ Sistemas que funcionam no silêncio
-- Bugs que aparecem em produção
-# Ideias que viram código
-```
+#
 
----
 
-## ☠️ Filosofia
 
-```txt
-"Se é fácil, provavelmente está errado."
-"Se funciona, dá pra melhorar."
-"Se ninguém entende, você está no caminho certo."
-```
-
----
-
-## 🔗 Conexões
-
-```bash
-> Aguardando contato...
-> Transmissão aberta.
-```
-
-* GitHub: https://github.com/Gustsaz
-
----
-
-## 🧬 Modo Atual
-
-```txt
-[███████████████████████] 100%
-
-> Construindo o futuro...
-> ou pelo menos tentando.
-```
-
----
-
-## 🕶️ Easter Egg
-
-```bash
-sudo rm -rf /duvidas
-```
-
-> Se você entendeu, já sabe.
-
----
