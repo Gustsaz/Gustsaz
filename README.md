@@ -1,11 +1,11 @@
 <table>
 <tr>
 
-<pre align="center">
+<pre align="left">
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <p align="center">
+  <p align="right">
   <img src="https://streak-stats.demolab.com?user=Gustsaz&theme=tokyonight&hide_border=true" />
 </p>
 
