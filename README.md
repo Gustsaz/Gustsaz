@@ -3,7 +3,7 @@
 <td width="60%" valign="top">
 
 # Gustavo Almeida Zuchini
-
+<!--
 <pre>
              ________  _______   _____ ______                  ___      ___ ___  ________   ________  ________     
             |\   __  \|\  ___ \ |\   _ \  _   \               |\  \    /  /|\  \|\   ___  \|\   ___ \|\   __  \    
@@ -14,7 +14,7 @@
                 \|_______|\|_______|\|__|     \|__|               \|__|/       \|__|\|__| \|__|\|_______|\|_______|
 
 </pre>
-
+-->
 ## Sobre mim:
 
 Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
