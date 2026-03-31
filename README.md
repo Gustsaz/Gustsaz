@@ -5,6 +5,10 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gustsaz&theme=tokyonight&hide_border=true" />
+</p>
+
 </pre>
 ## Sobre mim:
 
@@ -46,16 +50,6 @@ Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursand
 </tr></table>
 
 </td>
-
-## ATIVIDADE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gustsaz&theme=tokyonight&hide_border=true" />
-</p>
 
 ## Contatos:
 
