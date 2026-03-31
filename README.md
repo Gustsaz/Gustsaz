@@ -1,8 +1,10 @@
 ## Gustavo Almeida Zuchini
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com formação técnica em Desenvolvimento de Sistemas pela ETEC. Tenho interesse em tecnologia, programação e também gosto de praticar esportes e assistir filmes.
-
 ---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## Sobre mim
 
@@ -10,6 +12,24 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 - Idade: 18 anos  
 - Curso atual: Análise e Desenvolvimento de Sistemas  
 - Instituição: Fatec Ipiranga  
+
+<br/>
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com formação técnica em Desenvolvimento de Sistemas pela ETEC. Tenho interesse em tecnologia, programação e também gosto de praticar esportes e assistir filmes.
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustsaz&repo=Gustsaz&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustsaz&theme=tokyo-night&hide_border=true&area=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,35 +42,30 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ---
 
 ## Tecnologias e Ferramentas
+
 <table><tr><td valign="top" width="25%">
 
 ### Linguagens
-<a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+<img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" /> 
 </div>
-</a>
- </td><td valign="top" width="25%">
+
+</td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
 </div>
-</a>
 
 </td><td valign="top" width="25%">
   
 ### Outros
-<a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
 </div>
-</a>
-</td>
-</tr></table>
 
 </td>
+</tr></table>
 
 ---
 
