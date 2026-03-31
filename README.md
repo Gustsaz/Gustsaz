@@ -38,7 +38,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ### Linguagens
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,cs,cpp,js,java,python,&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -46,7 +46,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,angular&perline=4" /> 
 </div>
 </a>
 
@@ -55,7 +55,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ### Outros
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino,mysql&perline=4" /> 
 </div>
 </a>
 </td>
