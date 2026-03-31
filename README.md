@@ -1,66 +1,87 @@
-<table>
-<tr>
+# 👨‍💻 Gustavo Almeida Zuchini
 
-<pre align="center">
+### 🚀 Fullstack Developer | Tech Enthusiast | Problem Solver
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+**@Gustsaz**
 
-</pre>
-## Sobre mim:
+---
 
-Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
+## 🌟 Sobre mim
 
-## Formação:
+Olá! Sou **Gustavo Almeida Zuchini**, desenvolvedor apaixonado por tecnologia, sempre buscando criar soluções eficientes, escaláveis e bem estruturadas. Curioso por natureza, adoro explorar novas ferramentas, frameworks e boas práticas que elevam a qualidade do código.
 
-- **Ensino Médio Técnico em Desenvolvimento de Sistemas** | ETEC
-- **Análise e Desenvolvimento de Sistemas** | FATEC Ipiranga (Previsão: 12/2027)
+* 💡 Foco em desenvolvimento moderno e boas práticas
+* 🔍 Sempre aprendendo algo novo
+* ⚙️ Interesse em performance, arquitetura e UX
+* 🌎 Aberto a colaborações e projetos interessantes
 
-## **Ferramentas** & **Experiências**:
+---
 
-<table><tr><td valign="top" width="25%">
+## 🧠 Tech Stack
 
-### Linguagens
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
+### 💻 Linguagens
 
-### Frontend  
-<a href="https://github.com/tayyabadev">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
-</div>
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square\&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=openjdk)
 
-</td><td valign="top" width="25%">
-  
-### Outros
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
+---
 
-</td>
+### ⚙️ Frameworks & Bibliotecas
 
-## Contatos:
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square\&logo=express)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square\&logo=tailwind-css)
 
-  <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
-  </div>
+---
 
-  <div align="center">
-    <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
-    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
-  </div>
-  
-</div>
+### 🗄️ Banco de Dados
 
-#
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
 
+---
 
+### 🛠️ Ferramentas & DevOps
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square\&logo=linux)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square\&logo=visual-studio-code)
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Gustsaz GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustsaz\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustsaz\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Projetos em Destaque
+
+* 🚀 Em constante construção...
+* 💡 Sempre buscando inovar e melhorar
+
+---
+
+## 🌐 Contato
+
+* 📫 Email: [seuemail@email.com](mailto:seuemail@email.com)
+* 💼 LinkedIn: https://linkedin.com/in/seu-perfil
+* 🐙 GitHub: https://github.com/Gustsaz
+
+---
+
+## ⚡ Fun Fact
+
+> "Código limpo não é escrito seguindo regras. Código limpo é escrito por desenvolvedores que se importam."
+
+---
+
+⭐ *Se curtir algum projeto, não esquece de deixar uma estrela!*
