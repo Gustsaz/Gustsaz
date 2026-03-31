@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="60%" valign="top">
+
 # Gustavo Almeida Zuchini
 
 <pre>
@@ -13,14 +17,14 @@
 
 ## Sobre mim:
 
-Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
+Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
 
 ## Formação:
 
-- Ensino Médio Técnico em Desenvolvimento de Sistemas | ETEC
-- Análise e Desenvolvimento de Sistemas | FATEC Ipiranga (Previsão: 12/2027)
+- **Ensino Médio Técnico em Desenvolvimento de Sistemas** | ETEC
+- **Análise e Desenvolvimento de Sistemas** | FATEC Ipiranga (Previsão: 12/2027)
 
-## Experiências:
+## **Ferramentas** & **Experiências**:
 
 <table><tr><td valign="top" width="25%">
 
@@ -50,7 +54,8 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 </td>
 </tr></table>
 
-
+</td>
+<td width="40%" valign="top"
 ## Contatos:
 <div align="center">
     <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
@@ -60,6 +65,8 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <br/>
+
     <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
   </div>
   
@@ -75,3 +82,4 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 
 
 
+</td>
