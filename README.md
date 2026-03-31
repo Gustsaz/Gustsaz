@@ -47,6 +47,16 @@ Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursand
 
 </td>
 
+## ATIVIDADE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gustsaz&theme=tokyonight&hide_border=true" />
+</p>
+
 ## Contatos:
 
   <div align="center">
