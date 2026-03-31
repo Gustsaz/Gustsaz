@@ -26,6 +26,8 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
   
 </td>
 
+<td width="40%" valign="top"
+
 ## **Ferramentas** & **Experiências**:
 
 <table><tr><td valign="top" width="25%">
@@ -55,9 +57,6 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 </a>
 </td>
 </tr></table>
-
-<td width="40%" valign="top"
-
 
 ## Contatos:
   <div align="center">
