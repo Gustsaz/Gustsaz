@@ -59,11 +59,8 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 </div>
 
   <div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-    <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=667eea&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views" />
-
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
   </div>
   
 </div>
