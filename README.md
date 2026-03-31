@@ -1,6 +1,5 @@
 <table>
 <tr>
-<td width="60%" valign="top">
 
 # Gustavo Almeida Zuchini
 <!--
@@ -23,10 +22,6 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 
 - **Ensino Médio Técnico em Desenvolvimento de Sistemas** | ETEC
 - **Análise e Desenvolvimento de Sistemas** | FATEC Ipiranga (Previsão: 12/2027)
-  
-</td>
-
-<td width="40%" valign="top"
 
 ## **Ferramentas** & **Experiências**:
 
@@ -58,7 +53,11 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 </td>
 </tr></table>
 
+</td>
+
+
 ## Contatos:
+
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <br/>
@@ -82,4 +81,3 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 
 
 
-</td>
