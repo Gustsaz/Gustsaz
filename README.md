@@ -1,24 +1,14 @@
 <table>
 <tr>
 
-# Gustavo Almeida Zuchini
 <pre>
-<!--
-             ________  _______   _____ ______                  ___      ___ ___  ________   ________  ________     
-            |\   __  \|\  ___ \ |\   _ \  _   \               |\  \    /  /|\  \|\   ___  \|\   ___ \|\   __  \    
-            \ \  \|\ /\ \   __/|\ \  \\\__\ \  \  ____________\ \  \  /  / | \  \ \  \\ \  \ \  \_|\ \ \  \|\  \   
-             \ \   __  \ \  \_|/_\ \  \\|__| \  \|\____________\ \  \/  / / \ \  \ \  \\ \  \ \  \ \\ \ \  \\\  \  
-              \ \  \|\  \ \  \_|\ \ \  \    \ \  \|____________|\ \    / /   \ \  \ \  \\ \  \ \  \_\\ \ \  \\\  \ 
-               \ \_______\ \_______\ \__\    \ \__\              \ \__/ /     \ \__\ \__\\ \__\ \_______\ \_______\
-                \|_______|\|_______|\|__|     \|__|               \|__|/       \|__|\|__| \|__|\|_______|\|_______|
--->
 
-[![TESTE](https://ascii-galaxy.vercel.app/api?width=800&height=150)](https://ascii-galaxy.vercel.app/)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </pre>
 ## Sobre mim:
 
-Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
+Me chamo **Gustavo Almeida Zuchini**, tenho 18 anos e, no momento, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec Ipiranga. Gosto de praticar esportes e de ver filmes.
 
 ## Formação:
 
@@ -61,14 +51,12 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando **
 ## Contatos:
 
   <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
   </div>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
     <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
   </div>
   
 </div>
