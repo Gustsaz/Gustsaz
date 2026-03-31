@@ -44,7 +44,7 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 ### Outros
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons?i=git,github,figma,vscode,pr,ps,arduino,vscodeqt&perline=4" /> 
+       <img src="https://skillicons?i=git,github,figma,vscode,pr,ps,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
