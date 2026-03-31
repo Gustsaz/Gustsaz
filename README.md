@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 - Análise e Desenvolvimento de Sistemas | FATEC Ipiranga  
   Previsão de conclusão: 12/2027
   
-</td>
+</td></tr></table>
 
 ---
 
