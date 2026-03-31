@@ -33,7 +33,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ---
 
 ## Tecnologias e Ferramentas
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Linguagens
 <a href="https://github.com/tayyabadev">
