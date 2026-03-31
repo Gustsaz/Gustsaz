@@ -44,7 +44,7 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 ### Outros
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ae,pr,ps,vscodeqt&perline=4" /> 
+       <img src="https://skillicons?i=git,github,figma,vscode,pr,ps,arduino,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
@@ -53,7 +53,8 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
 
 ## Contatos:
 <div align="center">
-    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-Gustavo%20Almeida-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/gustsaz/" target="_blank"><img src="https://img.shields.io/badge/-Gustavo%20Almeida-0077B5?style=flat&logo=Linkedin&logoColor=white"/><img src="https://skillicons.dev/icons?i=linkedin" /> 
+</a>
     <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-zuccaalmeida@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
