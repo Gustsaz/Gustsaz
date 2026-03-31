@@ -7,7 +7,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustsaz&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
-
+<table>
+<tr>
+<td width="60%" valign="top">
+  
 ## Sobre mim
 
 - Nome: Gustavo Almeida Zuchini  
@@ -15,13 +18,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 - Curso atual: Análise e Desenvolvimento de Sistemas  
 - Instituição: Fatec Ipiranga  
 
----
+</td>
+
+<td width="40%" valign="top" align="center">
 
 ## Formação
 
 - Ensino Médio Técnico em Desenvolvimento de Sistemas | ETEC  
 - Análise e Desenvolvimento de Sistemas | FATEC Ipiranga  
-  Previsão de conclusão: 12/2027  
+  Previsão de conclusão: 12/2027
+  
+</td>
 
 ---
 
