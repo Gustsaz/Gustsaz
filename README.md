@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<pre>
+<pre align="center">
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
