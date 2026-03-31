@@ -22,21 +22,35 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 ---
 
 ## Tecnologias e Ferramentas
+<table><tr><td valign="top" width="25%">
 
 ### Linguagens
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=5" />
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
 </div>
+</a>
+ </td><td valign="top" width="25%">
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" />
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
 </div>
+</a>
 
-### Outras ferramentas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" />
+</td><td valign="top" width="25%">
+  
+### Outros
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino&perline=4" /> 
 </div>
+</a>
+</td>
+</tr></table>
+
+</td>
 
 ---
 
