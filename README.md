@@ -57,7 +57,10 @@ Me chamo Gustavo Almeida Zuchini, tenho 18 anos e, no momento, estou cursando An
     <a target="_blank" href="mailto:zuccaalmeida@gmail.com"><img src="https://img.shields.io/badge/-zuccaalmeida@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gustsaz&style=for-the-badge&color=lightgrey" alt=""/>
+  </div>
+  
 </div>
 
 #
