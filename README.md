@@ -3,10 +3,6 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com formação técnica em Desenvolvimento de Sistemas pela ETEC. Tenho interesse em tecnologia, programação e também gosto de praticar esportes e assistir filmes.
 
 ---
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustsaz&theme=tokyo-night&hide_border=true&area=true" />
-
----
 <table>
 <tr>
 <td width="60%" valign="top">
