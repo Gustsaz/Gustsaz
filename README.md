@@ -31,7 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 <table align="center"><tr><td valign="top" width="25%">
 
 ### Linguagens
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Gustsaz">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,cs,cpp,js,java,python,&perline=4" /> 
 </div>
@@ -39,7 +39,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
  </td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Gustsaz">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,angular&perline=4" /> 
 </div>
@@ -48,7 +48,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 </td><td valign="top" width="25%">
   
 ### Outros
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Gustsaz">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pr,ps,arduino,mysql&perline=4" /> 
 </div>
@@ -77,7 +77,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gustsaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 <br/>
 
