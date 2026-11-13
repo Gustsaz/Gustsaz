@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gustavo Almeida Zuchini&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1161, Total PRs: 5, Total Issues: 13, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1180, Total PRs: 5, Total Issues: 13, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 205.51135361958876;
+        stroke-dashoffset: 205.26626948407872;
       }
     }
   
